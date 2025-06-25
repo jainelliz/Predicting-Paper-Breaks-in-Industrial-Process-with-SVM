@@ -8,7 +8,7 @@ Applied classification techniques to predict paper breaks in an imbalanced datas
 - Achieved 75% sensitivity and 91% specificity
 
 ## Tools & Libraries
-- R, `kernlab`, `ROCR`, `caret`, cross-validation, performance metrics
+- R, `kernlab`, `ROCR`, `caret`, cross-validation, performance metrics, etc.
 
 ## Structure
 - `paper_breaks_svm.qmd` – Model training and evaluation
