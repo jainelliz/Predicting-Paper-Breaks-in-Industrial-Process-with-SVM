@@ -7,7 +7,7 @@ Applied classification techniques to predict paper breaks in an imbalanced datas
 - Tuned C, sigma, and threshold tau using ROC, PR, and F1 analysis
 - Achieved 75% sensitivity and 91% specificity
 
-## Tools & Libraries
+## Tools & Techniques
 - R, `kernlab`, `ROCR`, cross-validation, performance metrics, etc.
 
 ## Structure
