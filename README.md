@@ -1,8 +1,6 @@
 # Predicting Paper Breaks in Industrial Process with SVM
 
 Applied classification techniques to predict paper breaks in an imbalanced dataset from a manufacturing process.
-
-## Highlights
 - Used logistic regression and tuned SVM with RBF kernel
 - Tuned C, sigma, and threshold tau using ROC, PR, and F1 analysis
 - Achieved 75% sensitivity and 91% specificity
